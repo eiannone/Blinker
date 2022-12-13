@@ -1,0 +1,22 @@
+{
+  "name": "Blinker",
+  "version": "1.0.0",
+  "description": "Asyncronous led blinker for Arduino framework",
+  "keywords": "blinker, async",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/eiannone/Blinker.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Emanuele Iannone",
+      "email": "emanuele@fondani.it",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*"
+}

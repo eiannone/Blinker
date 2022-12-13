@@ -9,7 +9,7 @@ It supports three operational modes:
 You can call `start()` method, passing *ON* and *OFF* duration, and number of repetitions, or you can call `once()` method, to blink once.
 
 ## Examples
-```
+```cpp
 #include "Arduino.h"
 #include "Blinker.h"
 
